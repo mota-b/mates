@@ -144,3 +144,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+#templates folder
+template_peaces/
